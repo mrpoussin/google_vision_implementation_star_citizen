@@ -1,0 +1,68 @@
+{
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "mid": "/m/015p6",
+                    "description": "Bird",
+                    "score": 0.97355646,
+                    "topicality": 0.2152315
+                },
+                {
+                    "mid": "/m/088fh",
+                    "description": "Yellow",
+                    "score": 0.9545379,
+                    "topicality": 0.06888372
+                },
+                {
+                    "mid": "/m/01c4rd",
+                    "description": "Beak",
+                    "score": 0.89665455,
+                    "topicality": 0.001973899
+                },
+                {
+                    "mid": "/m/06z_nw",
+                    "description": "Tail",
+                    "score": 0.73933595,
+                    "topicality": 0.0012237043
+                },
+                {
+                    "mid": "/m/01gxtf",
+                    "description": "Old world flycatchers",
+                    "score": 0.7310523,
+                    "topicality": 0.055186722
+                },
+                {
+                    "mid": "/m/0k9mr",
+                    "description": "Songbirds",
+                    "score": 0.72842443,
+                    "topicality": 0.04522603
+                },
+                {
+                    "mid": "/m/0dfgf",
+                    "description": "Feather",
+                    "score": 0.71573275,
+                    "topicality": 2.0614845e-05
+                },
+                {
+                    "mid": "/m/0cjvf",
+                    "description": "Passerine",
+                    "score": 0.7041466,
+                    "topicality": 0.02603516
+                },
+                {
+                    "mid": "/m/0jlk7",
+                    "description": "Claw",
+                    "score": 0.6147782,
+                    "topicality": 1.1917972e-05
+                },
+                {
+                    "mid": "/m/01d_tk",
+                    "description": "American Sparrows",
+                    "score": 0.58621985,
+                    "topicality": 7.62242e-05
+                }
+            ]
+        }
+    ]
+}
