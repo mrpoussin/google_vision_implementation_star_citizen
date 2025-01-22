@@ -60,7 +60,7 @@ def analyze_image(api_key, image_path, output_file="image_analysis_results.json"
 
 if __name__ == "__main__":
     # Your Google Vision API key
-    api_key = "AIzaSyDeQbOVGqIHmoa32Bg0jy7FqYua9M7xL4M"
+    api_key = "change_api_key"
 
     # Path to the image to analyze
     image_path = "image.png"
