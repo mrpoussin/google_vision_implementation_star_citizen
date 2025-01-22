@@ -1,6 +1,6 @@
 # ![Header](image.png)
 
-### Simple README
+### README
 
 This script uses the Google Vision API to analyze the content of an image and outputs the results as a JSON file.
 
